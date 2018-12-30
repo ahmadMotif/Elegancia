@@ -1,0 +1,411 @@
+<!-- Start Header Title && Logo -->
+      <div class="ifms-header-title-logo d-flex justify-content-center">
+        <div class="text-center">
+          <div class="ifms-logo d-flex flex-column">
+            <div>
+              <a href="/" class="ifms-logo-icon">
+                <img src="img/logo/logo.svg" alt="">
+              </a>
+            </div>
+            <!-- /.Logo -->
+            <div class="ifms-title text-light mt-4 text-capitalize">
+              <h2>
+                  integrated facilities management
+              </h2>
+              <h2>specialists</h2>
+            </div>
+            <!-- /.itle -->
+          </div>
+          <!-- /.Disalay Items In Columns Mode -->
+        </div>
+        <!-- Centered Items -->
+      </div>
+      <!-- End Header Title && Logo -->
+
+
+
+
+
+       <div class="row my-5">
+                  <div class="col">
+                    <h6 class="ifms-text-dark font-weight-bold">A service that evolves with you</h6>
+                    <p class="ifms-text-sm font-weight-light" class="color: #444444">
+                      The ability to scale back or increase the scope and breadth of services is vital to the successful delivery of the contract. Given our size, the ability to deliver flexible services is one of our key strengths. Flexing our service can mean adding other properties to the contract as much as reducing reactive costs if necessary.
+                    </p>
+                  </div>
+                  <div class="col">
+                    <h6 class="ifms-text-dark font-weight-bold">
+                      An honest partner you can work with.
+                    </h6>
+                    <p class="ifms-text-sm font-weight-light" class="color: #444444">
+                      We manage contracts through a collaborative relationship with our customers, with honest and open communication that enables us to work together for the best possible outcomes. We have a highly experienced team, enabling us to utilize key lessons learned to improve the service we provide..
+                    </p>
+                  </div>
+                </div>
+                <!-- /.Row -->
+
+                <div class="row my-5">
+                  <div class="col">
+                    <h6 class="ifms-text-dark font-weight-bold">Well resourced team.</h6>
+                    <p class="ifms-text-sm font-weight-light" class="color: #444444">
+                      We will ensure your demands and expectations are met with a well-resourced team. Understandably there is a focus on cost and where this can be reduced; but not at the expense of service quality.
+                    </p>
+                  </div>
+                  <div class="col">
+                    <h6 class="ifms-text-dark font-weight-bold">
+                      Proactive account management.
+                    </h6>
+                    <p class="ifms-text-sm font-weight-light" class="color: #444444">
+                      We can offer services and when you need them, whether this is managing specialist assets or providing a single helpdesk for all queries or fulfilling project work such as office moves, new asset installation or something else.
+                    </p>
+                  </div>
+                </div>
+                <!-- /.Row -->
+
+
+
+
+
+                <!-- Start Wrapper Block -->
+                <div class="wrapper center-block">
+                  <!-- Start Panels Group -->
+                  <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+                    <div class="panel panel-default">
+                      <div class="panel-heading active ifms-bg-light-grey" role="tab" id="headingOne">
+                        <h4 class="panel-title">
+                          <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                              Services that deliver what you need.
+                          </a>
+                        </h4>
+                      </div>
+                      <div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
+                        <div class="panel-body ifms-text-sm">
+                          We will tailor our services at your location to reflect the high standards of your organization. We will provide a team of engineers led by our assigned Contract Manager, which fulfil your standard requirements and respond to any developments that may occur.
+                        </div>
+                      </div>
+                    </div>
+                    <!-- /.Panel One -->
+
+                    <div class="panel panel-default">
+                      <div class="panel-heading ifms-bg-light-grey" role="tab" id="headingTow">
+                        <h4 class="panel-title">
+                          <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTow" aria-expanded="false" aria-controls="collapseTow">
+                              Account development.
+                          </a>
+                        </h4>
+                      </div>
+                      <div id="collapseTow" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTow">
+                        <div class="panel-body ifms-text-sm">
+                          We will tailor our services at your location to reflect the high standards of your organization. We will provide a team of engineers led by our assigned Contract Manager, which fulfil your standard requirements and respond to any developments that may occur.
+                        </div>
+                      </div>
+                    </div>
+                    <!-- /.Panel Tow -->
+
+                    <div class="panel panel-default">
+                      <div class="panel-heading" role="tab" id="headingThree">
+                        <h4 class="panel-title ifms-bg-light-grey">
+                          <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                              Clear management information.
+                          </a>
+                        </h4>
+                      </div>
+                      <div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
+                        <div class="panel-body ifms-text-sm">
+                          We will tailor our services at your location to reflect the high standards of your organization. We will provide a team of engineers led by our assigned Contract Manager, which fulfil your standard requirements and respond to any developments that may occur.
+                        </div>
+                      </div>
+                    </div>
+                    <!-- /.Panel Three -->
+
+                    <div class="panel panel-default">
+                      <div class="panel-heading" role="tab" id="headingFoure">
+                        <h4 class="panel-title ifms-bg-light-grey">
+                          <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseFoure" aria-expanded="false" aria-controls="collapseFoure">
+                              A service that evolves with you.
+                          </a>
+                        </h4>
+                      </div>
+                      <div id="collapseFoure" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFoure">
+                        <div class="panel-body ifms-text-sm">
+                          We will tailor our services at your location to reflect the high standards of your organization. We will provide a team of engineers led by our assigned Contract Manager, which fulfil your standard requirements and respond to any developments that may occur.
+                        </div>
+                      </div>
+                    </div>
+                    <!-- /.Panel Foure -->
+
+                    <div class="panel panel-default">
+                      <div class="panel-heading" role="tab" id="headingFive">
+                        <h4 class="panel-title ifms-bg-light-grey">
+                          <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+                              An honest partner you can work with.
+                          </a>
+                        </h4>
+                      </div>
+                      <div id="collapseFive" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFive">
+                        <div class="panel-body ifms-text-sm">
+                          We will tailor our services at your location to reflect the high standards of your organization. We will provide a team of engineers led by our assigned Contract Manager, which fulfil your standard requirements and respond to any developments that may occur.
+                        </div>
+                      </div>
+                    </div>
+                    <!-- /.Panel Five -->
+
+                    <div class="panel panel-default">
+                      <div class="panel-heading" role="tab" id="headingSix">
+                        <h4 class="panel-title ifms-bg-light-grey">
+                          <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
+                            Well resourced team.
+                          </a>
+                        </h4>
+                      </div>
+                      <div id="collapseSix" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingSix">
+                        <div class="panel-body ifms-text-sm">
+                          We will tailor our services at your location to reflect the high standards of your organization. We will provide a team of engineers led by our assigned Contract Manager, which fulfil your standard requirements and respond to any developments that may occur.
+                        </div>
+                      </div>
+                    </div>
+                    <!-- /.Panel Six -->
+
+                    <div class="panel panel-default">
+                      <div class="panel-heading" role="tab" id="headingSevev">
+                        <h4 class="panel-title ifms-bg-light-grey">
+                          <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseSevev" aria-expanded="false" aria-controls="collapseSevev">
+                            Proactive account management.
+                          </a>
+                        </h4>
+                      </div>
+                      <div id="collapseSevev" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingSevev">
+                        <div class="panel-body ifms-text-sm">
+                          We will tailor our services at your location to reflect the high standards of your organization. We will provide a team of engineers led by our assigned Contract Manager, which fulfil your standard requirements and respond to any developments that may occur.
+                        </div>
+                      </div>
+                    </div>
+                    <!-- /.Panel Sevev -->
+                  </div>
+                  <!-- End Panels Group -->
+                </div>
+                <!-- End Wrapper Block -->
+
+
+
+
+
+Safety -  We believe Safety must be at the forefront of all our decision-making.
+Integrity -  We are honest and ethical, and treat others with fairness, dignity and respect.
+Accountability - We make take personal ownership of tasks, are responsible for our actions and deliver on our deadlines.
+Adaptability  - We move with speed, dexterity innovative ways to adapt and adjust to emerging client and project requirements.
+
+
+Collaboration - We work together, share ideas and recognize the contribution of others.
+Excellence - We recognize the importance of excellence in ourselves and in the delivery of services of the highest quality.
+Professionalism- We are always professional; doing what is right, not what is easy.
+Compassion - We care about our customers, our employees and their families, and the communities in which we operate.
+
+
+
+
+
+
+                <!-- Start Why Favorate Us -->
+              <div class="ifms-container-expand ifms-why-us">
+                <h2 class="mt-0 mb-4 ifms-golden-text">Why favor us?</h2>
+                <!-- Start Accordion -->
+                <div class="accordion mr-5" id="ifmsAccordion">
+                  <!-- Start Item One CARD -->
+                  <div class="card-defualt my-1">
+                    <div class="card-header active ifms-bg-light-grey" id="headingOne" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                      <h2 class="mb-0">
+                        <button class="btn btn-link" type="button">
+                          Services that deliver what you need.
+                        </button>
+                      </h2>
+                    </div>
+                    <!-- /. Card Header -->
+                    <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#ifmsAccordion">
+                      <div class="card-body px-2 ifms-text-sm">
+                        We will tailor our services at your location to reflect the high standards of your organization. We will provide a team of engineers led by our assigned Contract Manager, which fulfil your standard requirements and respond to any developments that may occur.
+                      </div>
+                    </div>
+                    <!-- /. Card Body -->
+                  </div>
+                  <!-- End Item One  CARD -->
+
+                  <!-- Start Item Tow  CARD -->
+                  <div class="card-default my-1">
+                    <div class="card-header ifms-bg-light-grey" id="headingTow" data-toggle="collapse" data-target="#collapseTow" aria-expanded="false" aria-controls="collapseTow">
+                      <h2 class="mb-0">
+                        <button class="btn btn-link collapsed" type="button">
+                          Account development.
+                        </button>
+                      </h2>
+                    </div>
+                    <!-- /. 2 Card Header -->
+                    <div id="collapseTow" class="collapse" aria-labelledby="headingTow" data-parent="#ifmsAccordion">
+                      <div class="card-body px-2 ifms-text-sm">
+                        We will tailor our services at your location to reflect the high standards of your organization. We will provide a team of engineers led by our assigned Contract Manager, which fulfil your standard requirements and respond to any developments that may occur.
+                      </div>
+                    </div>
+                    <!-- /. 2 Card Body -->
+                  </div>
+                  <!-- End Item Tow  CARD -->
+
+                  <!-- Start Item Three  CARD -->
+                  <div class="card-default my-1">
+                    <div class="card-header ifms-bg-light-grey" id="headingThree" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                      <h2 class="mb-0">
+                        <button class="btn btn-link collapsed" type="button">
+                          Value for money.
+                        </button>
+                      </h2>
+                    </div>
+                    <!-- /. 2 Card Header -->
+                    <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#ifmsAccordion">
+                      <div class="card-body px-2 ifms-text-sm">
+                        We will tailor our services at your location to reflect the high standards of your organization. We will provide a team of engineers led by our assigned Contract Manager, which fulfil your standard requirements and respond to any developments that may occur.
+                      </div>
+                    </div>
+                    <!-- /. 2 Card Body -->
+                  </div>
+                  <!-- End Item Three  CARD -->
+
+                  <!-- Start Item Four  CARD -->
+                  <div class="card-default my-1">
+                    <div class="card-header ifms-bg-light-grey" id="headingFour" data-toggle="collapse" data-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+                      <h2 class="mb-0">
+                        <button class="btn btn-link collapsed" type="button">
+                          Clear management information.
+                        </button>
+                      </h2>
+                    </div>
+                    <!-- /. 2 Card Header -->
+                    <div id="collapseFour" class="collapse" aria-labelledby="headingFour" data-parent="#ifmsAccordion">
+                      <div class="card-body px-2 ifms-text-sm">
+                        We will tailor our services at your location to reflect the high standards of your organization. We will provide a team of engineers led by our assigned Contract Manager, which fulfil your standard requirements and respond to any developments that may occur.
+                      </div>
+                    </div>
+                    <!-- /. 2 Card Body -->
+                  </div>
+                  <!-- End Item Four  CARD -->
+
+                  <!-- Start Item Five  CARD -->
+                  <div class="card-default my-1">
+                    <div class="card-header ifms-bg-light-grey" id="headingFive" data-toggle="collapse" data-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+                      <h2 class="mb-0">
+                        <button class="btn btn-link collapsed" type="button">
+                            A service that evolves with you.
+                        </button>
+                      </h2>
+                    </div>
+                    <!-- /. 2 Card Header -->
+                    <div id="collapseFive" class="collapse" aria-labelledby="headingFive" data-parent="#ifmsAccordion">
+                      <div class="card-body px-2 ifms-text-sm">
+                        We will tailor our services at your location to reflect the high standards of your organization. We will provide a team of engineers led by our assigned Contract Manager, which fulfil your standard requirements and respond to any developments that may occur.
+                      </div>
+                    </div>
+                    <!-- /. 2 Card Body -->
+                  </div>
+                  <!-- End Item Five  CARD -->
+
+                  <!-- Start Item Six  CARD -->
+                  <div class="card-default my-1">
+                    <div class="card-header ifms-bg-light-grey" id="headingSix" data-toggle="collapse" data-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
+                      <h2 class="mb-0">
+                        <button class="btn btn-link collapsed" type="button">
+                          An honest partner you can work with.
+                        </button>
+                      </h2>
+                    </div>
+                    <!-- /. 2 Card Header -->
+                    <div id="collapseSix" class="collapse" aria-labelledby="headingSix" data-parent="#ifmsAccordion">
+                      <div class="card-body px-2 ifms-text-sm">
+                        We will tailor our services at your location to reflect the high standards of your organization. We will provide a team of engineers led by our assigned Contract Manager, which fulfil your standard requirements and respond to any developments that may occur.
+                      </div>
+                    </div>
+                    <!-- /. 2 Card Body -->
+                  </div>
+                  <!-- End Item Six  CARD -->
+
+                  <!-- Start Item Seven  CARD -->
+                  <div class="card-default my-1">
+                    <div class="card-header ifms-bg-light-grey" id="headingSeven" data-toggle="collapse" data-target="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">
+                      <h2 class="mb-0">
+                        <button class="btn btn-link collapsed" type="button">
+                          Well resourced team.
+                        </button>
+                      </h2>
+                    </div>
+                    <!-- /. 2 Card Header -->
+                    <div id="collapseSeven" class="collapse" aria-labelledby="headingSeven" data-parent="#ifmsAccordion">
+                      <div class="card-body px-2 ifms-text-sm">
+                        We will tailor our services at your location to reflect the high standards of your organization. We will provide a team of engineers led by our assigned Contract Manager, which fulfil your standard requirements and respond to any developments that may occur.
+                      </div>
+                    </div>
+                    <!-- /. 2 Card Body -->
+                  </div>
+                  <!-- End Item Seven  CARD -->
+
+                  <!-- Start Item Eight  CARD -->
+                  <div class="card-default my-1">
+                    <div class="card-header ifms-bg-light-grey" id="headingEight" data-toggle="collapse" data-target="#collapseEight" aria-expanded="false" aria-controls="collapseEight">
+                      <h2 class="mb-0">
+                        <button class="btn btn-link collapsed" type="button">
+                          Proactive account management.
+                        </button>
+                      </h2>
+                    </div>
+                    <!-- /. 2 Card Header -->
+                    <div id="collapseEight" class="collapse" aria-labelledby="headingEight" data-parent="#ifmsAccordion">
+                      <div class="card-body px-2 ifms-text-sm">
+                        We will tailor our services at your location to reflect the high standards of your organization. We will provide a team of engineers led by our assigned Contract Manager, which fulfil your standard requirements and respond to any developments that may occur.
+                      </div>
+                    </div>
+                    <!-- /. 2 Card Body -->
+                  </div>
+                  <!-- End Item Eight  CARD -->
+
+                </div>
+                <!-- End Accordion -->
+              </div>
+              <!-- End Why Favorate Us -->
+
+
+
+
+
+
+
+              <!-- Start Vision, Mission & Values -->
+              <div class="ifms-container-expand">
+                <div class="media">
+                  <img src="img/icons/Group Copy.svg" class="mr-3 position-absolute" alt="" style="left: -70px;">
+                  <div class="media-body">
+                    <h2 class="mt-0 ifms-golden-text">Vision, Mission & Values</h2>
+                  </div>
+                </div>
+                <!-- Section Vission Titel -->
+                <div class="row my-5">
+                  <div class="col">
+                    <h4 class="ifms-text-grey font-weight-bold mb-3">Vision</h4>
+                    <p class="font-weight-light" class="color: #444444">
+                      At Elegancia our vision is to build long term relationships with our clients by providing exceptional services and quality products through our company’s innovative framework and keen adherence to trust and loyalty.
+                    </p>
+                  </div>
+                  <div class="col">
+                    <h4 class="ifms-text-grey font-weight-bold mb-3">Mision</h4>
+                    <p class="font-weight-light" class="color: #444444">
+                      Elegancia’s mission is to consistently be driven by a dedicated team that provides quality services and products that exceed our clients’ expectations.
+                    </p>
+                  </div>
+                </div>
+                <!-- /.Row -->
+
+                <div class="row my-5">
+                    <h4 class="ifms-text-grey font-weight-bold mb-3">Core Values</h4>
+                    <p class="font-weight-light" class="color: #444444">
+                      Elegancia’s growth and continuous performance-based improvement is a result of our commitment to trust. Our company strives to ensure transparency and honesty across the board with team members, clients, and all project related stakeholders. Our keen adherence to business ethics ensures that Elegancia consistently delivers projects that meet and exceed our clients’ expectations and is a leading factor in the success and growth of our company in the industry.
+                    </p>
+                  </div>
+                </div>
+                <!-- /.Row -->
+              </div>
+              <!-- /.End Container  Vision, Mission & Values -->
